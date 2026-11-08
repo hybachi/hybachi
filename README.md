@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">Electronics Engineer • Web Developer • Robotics Enthusiast</p>
+<p align="center">Electrical & Electronics Engineer • Web Developer • Robotics Expert</p>
 
 ---
 
